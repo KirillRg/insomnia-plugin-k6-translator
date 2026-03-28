@@ -1,0 +1,11 @@
+{
+  "name": "insomnia-plugin-k6-translator",
+  "version": "0.0.1",
+  "private": true,
+  "main": "main.js",
+  "insomnia": {
+    "name": "k6-translator",
+    "displayName": "k6 Translator",
+    "description": "Translate Insomnia collections into k6 scripts"
+  }
+}
